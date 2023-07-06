@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgb(190, 241, 229);
+}
+
+img {
+  max-width: 100%;
+  
+}
+main{
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+ 
+  
+}
+section{
+  width: 100%;
+  display: flex;
+   flex-direction: column;
+  
+}
+figure{
+   
+  margin-left: 50%;
+}
+h2 {
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-bottom: 15px;
+}
+p{
+  font-size:.8rem;
+  width: 50%;
+  font-size: larger;
+  margin-left: 15px;
+  
+
+}
