@@ -3,7 +3,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: rgb(247, 248, 248);
+  background-color: rgb(255, 255, 255);
 }
 body {
   font-family: "Roboto", sans-serif;
@@ -31,13 +31,9 @@ header nav ul {
 header nav ul li {
   padding: 3px 15px;
 }
-header nav ul li:nth-last-child(1) {
-  background: #000;
-  border-radius: 20px;
-  padding: 5px 20px;
-}
+ 
 header nav ul li:nth-last-child(1) a {
-  color: #fff;
+  color: #131212;
 }
 header nav ul li a {
   text-decoration: none;
@@ -72,7 +68,7 @@ header nav .bi-three-dots {
 .contBox {
   width: 500px;
   height: auto;
-  color: #fff;
+  color: #413c3c;
   padding: 30px;
 }
 .contBox h1 {
@@ -83,7 +79,7 @@ header nav .bi-three-dots {
 .contBox p {
   font-size: 14px;
   font-weight: 400;
-  color: rgb(241, 241, 241);
+  color: rgb(15, 15, 15);
 }
 .contBox button {
   margin-top: 20px;
